@@ -55,17 +55,18 @@ body,html{
 .background{
 	height: 100%;
 	background-position: center;
-	background-image:url(img/train.png);
+	background-image:url(img/pexels-photo-258420.jpeg);
 	background-repeat: no-repeat;
 	background-size: cover;
 	width: 100%;
 }
 /*img position&*/
-.hjkl{
+#hjkl{
 	position: absolute;
-	bottom:90%;
+	width: 500;
+	top: 50%;
+	left: 36%;
 	
-	margin-top: 30;
 }
 .buttomnav a:hover {
   background-color: #ddd;
@@ -76,5 +77,15 @@ body,html{
 .buttomnav a.active {
   background-color: #4CAF50;
   color: white;
-
+}
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 50%;
+position: absolute;
+	right: 140px;
+	
 }

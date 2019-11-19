@@ -55,7 +55,7 @@ body,html{
 .background{
 	height: 100%;
 	background-position: center;
-	background-image:url(img/pexels-photo-610683.jpeg);
+	background-image:url(img/photo-1527295110-5145f6b148d0.jpeg);
 	background-repeat: no-repeat;
 	background-size: cover;
 	width: 100%;
@@ -81,7 +81,7 @@ body,html{
 .font{
 	font-family: "coming-soon";
 	font-size:20px;
-	color: white;
+	color: #FF00A6;
 	
 }
 .bigFont{
